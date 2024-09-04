@@ -57,7 +57,9 @@ Please follow the steps below to perform automatic annotation.
 - After the automatic labeling is complete, you can check the results in `./datasets/YOUR_OUTPUT_LOCATION`. The `Roboflow_YOLO` folder can be used for direct YOLO training or uploaded to the Roboflow platform. The `output.mp4` file contains the video with the automatic annotation boxes.
 
     ![image](./readme_img/output_folder.png)
+  
   You can also upload the entire Roboflow_YOLO folder for testing.
+  
     ![image](./readme_img/roboflow.png)
 
 ## References
